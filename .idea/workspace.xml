@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d33ac723-2dbf-4c3a-8f71-2abb188c70d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c65oGrcgh406RZhWsjT054PZDO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2000" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2000" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1800" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d33ac723-2dbf-4c3a-8f71-2abb188c70d3" name="Default Changelist" comment="" />
+      <created>1589836375156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589836375156</updated>
+      <workItem from="1589836376502" duration="37000" />
+      <workItem from="1589837137422" duration="4437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1217" y="299" width="424" height="515" key="FileChooserDialogImpl" timestamp="1589836398146">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1217" y="299" width="424" height="515" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1589836398146" />
+    <state x="821" y="454" width="277" height="202" key="Github.ShareDialog" timestamp="1589871899699">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="821" y="454" width="277" height="202" key="Github.ShareDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1589871899699" />
+    <state x="898" y="189" width="1022" height="732" key="SettingsEditor" timestamp="1589842953399">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="898" y="189" width="1022" height="732" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1589842953399" />
+  </component>
+</project>
